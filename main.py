@@ -1,3 +1,6 @@
+# https://github.com/chadallen/openai-story-to-image
+# Coolest part about this was getting GPT4 to make the web UI look nice
+
 from flask import Flask, render_template_string, request
 import requests
 import os
