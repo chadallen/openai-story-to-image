@@ -1,3 +1,4 @@
+# SEE IT IN ACTION! https://openai-story-to-image.chadallen.repl.co/
 # https://github.com/chadallen/openai-story-to-image
 # Coolest part about this was getting GPT4 to make the web UI look nice
 
